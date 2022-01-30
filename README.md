@@ -1,5 +1,5 @@
 # WebConference
 Aplicação para gerir Conferência
-Primeira alteração!
-segunda alteração
-terceira alteração!
+\nPrimeira alteração!
+\nsegunda alteração
+\nterceira alteração!
